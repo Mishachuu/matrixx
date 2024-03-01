@@ -1,0 +1,18 @@
+For matrix with size of 10x10 time of multiplication = 0 ms
+
+For matrix with size of 50x50 time of multiplication = 2 ms
+
+For matrix with size of 100x100 time of multiplication = 21 ms
+
+For matrix with size of 500x500 time of multiplication = 2546 ms
+
+For matrix with size of 600x600 time of multiplication = 4239 ms
+
+For matrix with size of 700x700 time of multiplication = 7011 ms
+
+For matrix with size of 800x800 time of multiplication = 18850 ms
+
+For matrix with size of 900x900 time of multiplication = 27026 ms
+
+For matrix with size of 1000x1000 time of multiplication = 32321 ms
+
